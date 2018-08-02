@@ -1,6 +1,6 @@
 The Python package Pandas and sys have been used to do this project. 
 Considering the input data is clean, every id is unique, therefore there is no step to remove the repeated id and missing data.
-With regard to the same custermer could buy the medicine multiple times but with different id, the number of purchase is sumed to one to this sepcific customer. However, the drug cost were added together. 
+With regard to the same custermer could buy the medicine multiple times but with different id, the number of customer purchasing is considered to one. However, the drug cost of each purchase was added together. 
 
 The input file for my test was creatd based on the given incont.txt, I added some situations on the my test input files.
 
